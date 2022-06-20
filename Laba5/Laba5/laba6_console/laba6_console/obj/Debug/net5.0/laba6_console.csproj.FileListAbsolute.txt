@@ -1,0 +1,50 @@
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.exe
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.deps.json
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.runtimeconfig.json
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.runtimeconfig.dev.json
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.dll
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\bin\Debug\net5.0\ref\laba6_console.dll
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.pdb
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.AssemblyInfo.cs
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.dll
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\ref\laba6_console.dll
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.pdb
+C:\Users\user\Desktop\4_сем\ООТПиСП\Лабы\Лаба 6\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.genruntimeconfig.cache
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.exe
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.deps.json
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.runtimeconfig.json
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.runtimeconfig.dev.json
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.dll
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\ref\laba6_console.dll
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.pdb
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.AssemblyReference.cache
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.AssemblyInfoInputs.cache
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.AssemblyInfo.cs
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.CoreCompileInputs.cache
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.dll
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\ref\laba6_console.dll
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.pdb
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.genruntimeconfig.cache
+D:\1Рабочий стол\2Учёба\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.CopyComplete
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.exe
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.deps.json
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.runtimeconfig.json
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.runtimeconfig.dev.json
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.dll
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\bin\Debug\net5.0\laba6_console.pdb
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.AssemblyReference.cache
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.AssemblyInfoInputs.cache
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.AssemblyInfo.cs
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.CoreCompileInputs.cache
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.csproj.CopyComplete
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.dll
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\refint\laba6_console.dll
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.pdb
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\laba6_console.genruntimeconfig.cache
+C:\Users\Ромик\Downloads\Laba5\Laba5\laba6_console\laba6_console\obj\Debug\net5.0\ref\laba6_console.dll
